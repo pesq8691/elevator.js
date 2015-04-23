@@ -8,7 +8,7 @@ html, body {
 body {
     height: 600%;
     color: #0C1F31;
-    background: #fff;
+    background-image: url("img/bg.jpg") ;
     font-family: 'Avenir Next', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-align: center;
 }
