@@ -16,10 +16,6 @@
         <p>
             Elevator.js fixes those awkward "scroll to top" moments the old fashioned way.
         </p>
-        <div class="links">
-            <a href="http://tholman.com">By Tim Holman</a> &bull; <a href="http://github.com/tholman/elevator.js">Source & Instructions</a> &bull; <a href="https://twitter.com/share" class="twitter-share-button" data-text='Elevator.js, "back to top" buttons have never been so real! -'  data-via="twholman">Tweet</a>
-        </div>
-
         <div class="down-arrow"><img src="img/head.png"></div>
         <p>
             First we need to get to the bottom of the page.
