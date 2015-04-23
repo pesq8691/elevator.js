@@ -7,9 +7,9 @@ html, body {
 
 body {
     height: 600%;
-    background-image: url("img/bg.jpg") ;
     font-family: 'Avenir Next', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-align: center;
+    background-image: url("./img/bg.jpg") ;
 }
 
 .wrapper {
