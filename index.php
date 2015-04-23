@@ -5,10 +5,10 @@
         <meta name="description" content="Are you sick of clicking 'back to top' buttons on websites, and being lifted to the top without a real elevator experience? Elevator.js is here to help.">
 
         <!-- JS -->
-        <script src='../elevator.js'></script>
+        <script src='elevator.js'></script>
 
         <!-- CSS -->
-        <link href='./css/styles.css' rel='stylesheet'>
+        <link href='css/styles.css' rel='stylesheet'>
     </head>
     <body>
 
@@ -98,8 +98,8 @@
             var elementButton = document.querySelector('.elevator');
             var elevator = new Elevator({
                 element: elementButton,
-                mainAudio: './music/CoffeeBreak.mp3', // Music from https://soundcloud.com/please-hold/all-night-day
-                endAudio:  './music/ding.mp3', // Music from http://www.bensound.com/
+                mainAudio: 'music/CoffeeBreak.mp3', // Music from https://soundcloud.com/please-hold/all-night-day
+                endAudio:  'music/ding.mp3', // Music from http://www.bensound.com/
             });
 
         </script>
