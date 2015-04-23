@@ -16,102 +16,102 @@
         <p>
             エレベーター.js is your favorite 90's corporate elevator (Just don't caught riding the elevators).
         </p>
-        <div class="down-arrow"><img src="img/head.png"></div>
+        <div class="down-arrow"><img src="img/arrow.gif"></div>
         <p>
             First we need to get to the bottom of the page.
         </p>
 
-        <div class="down-arrow"><img src="img/head.png"></div>
+        <div class="down-arrow"><img src="img/arrow.gif"></div>
         <p>
             Because you're already at the top.
         </p>
 
-        <div class="down-arrow"><img src="img/head.png"></div>
+        <div class="down-arrow"><img src="img/arrow.gif"></div>
         <p>
             So a "back to top" button wouldn't make sense.
         </p>
 
-        <div class="down-arrow"><img src="img/head.png"></div>
+        <div class="down-arrow"><img src="img/arrow.gif"></div>
         <p>
             Down down down.
         </p>
 
-        <div class="down-arrow"><img src="img/head.png"></div>
+        <div class="down-arrow"><img src="img/arrow.gif"></div>
         <p>
             Wow, all this scrolling.
         </p>
 
-        <div class="down-arrow"><img src="img/head.png"></div>
+        <div class="down-arrow"><img src="img/arrow.gif"></div>
         <p>
             This had better be worth it.
         </p>
 
-        <div class="down-arrow"><img src="img/head.png"></div>
+        <div class="down-arrow"><img src="img/arrow.gif"></div>
         <p>
             It's going to take ages to get back to the top.
         </p>
 
-        <div class="down-arrow"><img src="img/head.png"></div>
+        <div class="down-arrow"><img src="img/arrow.gif"></div>
         <p>
             If only we had an easy way to get back...
         </p>
 
-        <div class="down-arrow"><img src="img/head.png"></div>
+        <div class="down-arrow"><img src="img/arrow.gif"></div>
         <p>
             ...that is both functional and fun.
         </p>
 
-        <div class="down-arrow"><img src="img/head.png"></div>
+        <div class="down-arrow"><img src="img/arrow.gif"></div>
         <p>
             I call "back to top" buttons elevators...
         </p>
 
-        <div class="down-arrow"><img src="img/head.png"></div>
+        <div class="down-arrow"><img src="img/arrow.gif"></div>
         <p>
             ...they should really behave more like them.
         </p>
 
-        <div class="down-arrow"><img src="img/head.png"></div>
+        <div class="down-arrow"><img src="img/arrow.gif"></div>
         <p>
             Down down down.
         </p>
 
-        <div class="down-arrow"><img src="img/head.png"></div>
+        <div class="down-arrow"><img src="img/arrow.gif"></div>
         <p>
             Wow, all this scrolling.
         </p>
 
-        <div class="down-arrow"><img src="img/head.png"></div>
+        <div class="down-arrow"><img src="img/arrow.gif"></div>
         <p>
             This had better be worth it.
         </p>
 
-        <div class="down-arrow"><img src="img/head.png"></div>
+        <div class="down-arrow"><img src="img/arrow.gif"></div>
         <p>
             It's going to take ages to get back to the top.
         </p>
 
-        <div class="down-arrow"><img src="img/head.png"></div>
+        <div class="down-arrow"><img src="img/arrow.gif"></div>
         <p>
             If only we had an easy way to get back...
         </p>
 
-        <div class="down-arrow"><img src="img/head.png"></div>
+        <div class="down-arrow"><img src="img/arrow.gif"></div>
         <p>
             ...that is both functional and fun.
         </p>
 
-        <div class="down-arrow"><img src="img/head.png"></div>
+        <div class="down-arrow"><img src="img/arrow.gif"></div>
         <p>
             I call "back to top" buttons elevators...
         </p>
 
-        <div class="down-arrow"><img src="img/head.png"></div>
+        <div class="down-arrow"><img src="img/arrow.gif"></div>
         <p>
             ...they should really behave more like them.
         </p>
 
-        <div class="down-arrow"><img src="img/head.png"></div>
+        <div class="down-arrow"><img src="img/arrow.gif"></div>
         <p>
             Ok, here we are... click that elevator! 
         </p>
