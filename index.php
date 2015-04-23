@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
     <head>
-        <title> Elevator.js </title>
+        <title> エレベーター.js </title>
         <meta name="description" content="Are you sick of clicking 'back to top' buttons on websites, and being lifted to the top without a real elevator experience? Elevator.js is here to help.">
 
         <!-- JS -->
@@ -12,9 +12,9 @@
     </head>
     <body>
 
-        <h1>Elevator.js</h1>
+        <h1>エレベーター.js</h1>
         <p>
-            Elevator.js fixes those awkward "scroll to top" moments the old fashioned way.
+            エレベーター.js is your favorite 90's corporate elevator (Just don't caught riding the elevators).
         </p>
         <div class="down-arrow"><img src="img/head.png"></div>
         <p>
