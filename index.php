@@ -20,62 +20,62 @@
             <a href="http://tholman.com">By Tim Holman</a> &bull; <a href="http://github.com/tholman/elevator.js">Source & Instructions</a> &bull; <a href="https://twitter.com/share" class="twitter-share-button" data-text='Elevator.js, "back to top" buttons have never been so real! -'  data-via="twholman">Tweet</a>
         </div>
 
-        <div class="down-arrow">&#9660;</div>
+        <div class="down-arrow"><img src="img/head.png"></div>
         <p>
             First we need to get to the bottom of the page.
         </p>
 
-        <div class="down-arrow">&#9660;</div>
+        <div class="down-arrow"><img src="img/head.png"></div>
         <p>
             Because you're already at the top.
         </p>
 
-        <div class="down-arrow">&#9660;</div>
+        <div class="down-arrow"><img src="img/head.png"></div>
         <p>
             So a "back to top" button wouldn't make sense.
         </p>
 
-        <div class="down-arrow">&#9660;</div>
+        <div class="down-arrow"><img src="img/head.png"></div>
         <p>
             Down down down.
         </p>
 
-        <div class="down-arrow">&#9660;</div>
+        <div class="down-arrow"><img src="img/head.png"></div>
         <p>
             Wow, all this scrolling.
         </p>
 
-        <div class="down-arrow">&#9660;</div>
+        <div class="down-arrow"><img src="img/head.png"></div>
         <p>
             This had better be worth it.
         </p>
 
-        <div class="down-arrow">&#9660;</div>
+        <div class="down-arrow"><img src="img/head.png"></div>
         <p>
             It's going to take ages to get back to the top.
         </p>
 
-        <div class="down-arrow">&#9660;</div>
+        <div class="down-arrow"><img src="img/head.png"></div>
         <p>
             If only we had an easy way to get back...
         </p>
 
-        <div class="down-arrow">&#9660;</div>
+        <div class="down-arrow"><img src="img/head.png"></div>
         <p>
             ...that is both functional and fun.
         </p>
 
-        <div class="down-arrow">&#9660;</div>
+        <div class="down-arrow"><img src="img/head.png"></div>
         <p>
             I call "back to top" buttons elevators...
         </p>
 
-        <div class="down-arrow">&#9660;</div>
+        <div class="down-arrow"><img src="img/head.png"></div>
         <p>
             ...they should really behave more like them.
         </p>
 
-        <div class="down-arrow">&#9660;</div>
+        <div class="down-arrow"><img src="img/head.png"></div>
         <p>
             Ok, here we are... click that elevator! 
         </p>
