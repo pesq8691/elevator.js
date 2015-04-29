@@ -3,12 +3,11 @@
     <head>
         <title> エレベーター.js </title>
         <meta name="description" content="Are you sick of clicking 'back to top' buttons on websites, and being lifted to the top without a real elevator experience? Elevator.js is here to help.">
-
-        <!-- JS -->
-        <script src='elevator.js'></script>
-
         <!-- CSS -->
         <link href='css/styles.css' rel='stylesheet'>
+
+
+        
     </head>
     <body>
 
@@ -140,7 +139,8 @@
 
         </script>
 
-        <!-- Tweet Button -->
-        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        
+                <!-- JS -->
+        <script src='elevator.js'></script>
     </body>
 </html>
