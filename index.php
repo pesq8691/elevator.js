@@ -6,7 +6,8 @@
         <!-- CSS -->
         <link href='css/styles.css' rel='stylesheet'>
 
-
+                        <!-- JS -->
+        <script src='elevator.js'></script>
         
     </head>
     <body>
@@ -140,7 +141,6 @@
         </script>
 
         
-                <!-- JS -->
-        <script src='elevator.js'></script>
+
     </body>
 </html>
